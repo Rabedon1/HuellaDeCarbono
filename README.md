@@ -15,7 +15,7 @@ La intensidad de carbono mide cuánto CO2 se emite por cada kWh de electricidad 
 
 Ejemplo de resultados para Ecuador:
 ![Gráfico de Intensidad de Carbono](Grafico_intensidad_carbono.png)
-![Mezcla Energética](Garafico_mezcla_generacion.png)
+![Mezcla Energética](Grafico_mezcla_generacion.png)
 
 ## 🛠 Tecnologías Usadas
 - **Python 3.8+**
