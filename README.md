@@ -14,8 +14,8 @@ La intensidad de carbono mide cuánto CO2 se emite por cada kWh de electricidad 
 - **Estadísticas**: Calcula la media de intensidad de carbono para análisis rápidos.
 
 Ejemplo de resultados para Ecuador:
-![Gráfico de Intensidad de Carbono](intensidad_carbono.png)
-![Mezcla Energética](mezcla_energetica.png)
+![Gráfico de Intensidad de Carbono](Grafico_intensidad_carbono.png)
+![Mezcla Energética](Grafico_mezcla_generacion.png)
 
 ## 🛠 Tecnologías Usadas
 - **Python 3.8+**
@@ -25,5 +25,5 @@ Ejemplo de resultados para Ecuador:
 ## 🚀 Instalación y Uso
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/[tu-usuario]/[tu-repo].git
-   cd [tu-repo]
+   git clone git push -u origin https://github.com/Rabedon1/HuellaDeCarbono.git
+  
