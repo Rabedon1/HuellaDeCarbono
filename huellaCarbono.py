@@ -1,7 +1,11 @@
+from dotenv import load_dotenv
+import os
 import requests
 import matplotlib.pyplot as plt
 
-API_KEY = 'PHzHXqWUsT9vfCaBD7Qb'
+load_dotenv()
+
+API_KEY = os.getenv("API_KEY")
 CODIGO_PAIS = 'EC'
 
 
