@@ -25,5 +25,5 @@ Ejemplo de resultados para Ecuador:
 ## 🚀 Instalación y Uso
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/[tu-usuario]/[tu-repo].git
-   cd [tu-repo]
+   git clone git push -u origin https://github.com/Rabedon1/HuellaDeCarbono.git
+  
